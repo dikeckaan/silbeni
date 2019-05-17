@@ -2,16 +2,16 @@ $ORIGIN 30.20.10.in-addr.arpa.
 
 $TTL 1H
 
-@       IN      SOA     canberkozdemir.com.     hostmaster.canberkozdemir.com. ( 2
+@       IN      SOA     kaandikec.com.     hostmaster.kaandikec.com. ( 2
                                                 3H
                                                 1H
                                                 1W
                                                 1H )
-30.20.10.in-addr.arpa.         IN NS      root.canberkozdemir.com.
-120     IN PTR  canberkozdemir-srv.canberkozdemir.com
-131     IN PTR  mail.canberkozdemir.com
-132     IN PTR  obs.canberkozdemir.com
-125     IN PTR  w3.canberkozdemir.com
-126     IN PTR  web.canberkozdemir.com
-127     IN PTR  obs.canberkozdemir.com
-10	IN PTR 	www.canberkozdemir.com
+30.20.10.in-addr.arpa.         IN NS      root.kaandikec.com.
+120     IN PTR  kaandikec-srv.kaandikec.com
+131     IN PTR  mail.kaandikec.com
+132     IN PTR  obs.kaandikec.com
+125     IN PTR  w3.kaandikec.com
+126     IN PTR  web.kaandikec.com
+127     IN PTR  obs.kaandikec.com
+10	IN PTR 	www.kaandikec.com
